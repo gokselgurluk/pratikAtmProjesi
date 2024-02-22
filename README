@@ -1,0 +1,7 @@
+Java döngüler ile kullanıcının banka hesabını yönetebildiği bir ATM projesi yapıyoruz.
+
+
+1-Para yatırma
+2-Para Çekme
+3-Bakiye Sorgula
+4-Çıkış Yap
